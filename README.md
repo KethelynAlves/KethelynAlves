@@ -1,20 +1,32 @@
-## Olá 👋 
-Sou uma estudante do Instituto Federal de São Paulo, atualmente cursando o curso de Sistemas de Informação!
+## Olá 👋 Me chamo Kethelyn!
 
-<!--
-**KethelynAlves/KethelynAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Sistemas de Informação no Instituto Federal de São Paulo (IFSP). Adoro as tecnologias, desenvolvimento de software e análise de dados, sempre buscando aprender novas ferramentas e construir soluções práticas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Sobre Mim
+- 🎓 Cursando **Sistemas de Informação** no IFSP.
+- 🚀 Atualmente desenvolvendo aplicações mobile com **React Native** e **Expo**.
+- 📊 Explorando projetos em **Ciência de Dados** e métodos numéricos em Python e C.
+- 🎨 Praticando desenvolvimento web (HTML5, CSS3, JavaScript) e boas práticas de UI/UX.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python, JavaScript, C, HTML5, CSS3
+- **Mobile & Web:** React Native, Expo, React
+- **Banco de Dados:** SQLite
+- **Ferramentas & Ambientes:** Git, GitHub, Linux, VS Code, Google Colab
+
+---
+
+### 📫 Conecte-se comigo
+- 💼 [LinkedIn](https://www.linkedin.com/in/kethelyn-alves-dos-santos) 
+- 📧 [E-mail](mailto:kethelynalves.santos28@gmail.com) 
+
+---
+
+### 🐍 Minhas Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KethelynAlves/KethelynAlves/output/github-contribution-grid-snake-dark.svg">
